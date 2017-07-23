@@ -14,10 +14,16 @@ body {
 	background-repeat: no-repeat;
 	background-size: cover;
 	color: white;
-}
+	background-attachment: fixed;
+} 
 
 .cover h1 {
 	margin: 0;
 	padding-top: 250px;
+	font-size: 50px;
 }
 
+.type-example {
+	width: 300px;
+	display: inline-block;
+}
